@@ -1,0 +1,4 @@
+﻿{
+    "connectionString": "mongodb+srv://jad:jadpass123@cluster0.z9dtk.mongodb.net/karadb?retryWrites=true&w=majority",
+    "secret": "secretKey"
+}
